@@ -6,6 +6,6 @@ Everyone will get read access for logs etc, but if you want to deploy docsets et
 
 ## Getting Started
 
-`git clone [repo]`
+`git clone https://github.com/orta/CocoaDocs2`
 `bundle install`
 `foreman start`
