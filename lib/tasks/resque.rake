@@ -1,3 +1,4 @@
+require "rake"
 require "resque"
 require "resque/tasks"
 

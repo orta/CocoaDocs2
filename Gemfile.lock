@@ -118,6 +118,7 @@ DEPENDENCIES
   foreman
   jbuilder (~> 1.2)
   rails (= 4.0.4)
+  rake
   resque (< 2.0)
   sass-rails (~> 4.0.2)
   sdoc
